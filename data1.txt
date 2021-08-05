@@ -1,0 +1,5007 @@
+enter desired number of coin flips:
+flip number: 1
+flip: 1
+heads 0
+tails 1
+()
+flip number: 2
+flip: 1
+heads 0
+tails 2
+()
+flip number: 3
+flip: 0
+heads 1
+tails 2
+()
+flip number: 4
+flip: 1
+heads 1
+tails 3
+()
+flip number: 5
+flip: 1
+heads 1
+tails 4
+()
+flip number: 6
+flip: 1
+heads 1
+tails 5
+()
+flip number: 7
+flip: 1
+heads 1
+tails 6
+()
+flip number: 8
+flip: 0
+heads 2
+tails 6
+()
+flip number: 9
+flip: 0
+heads 3
+tails 6
+()
+flip number: 10
+flip: 0
+heads 4
+tails 6
+()
+flip number: 11
+flip: 0
+heads 5
+tails 6
+()
+flip number: 12
+flip: 1
+heads 5
+tails 7
+()
+flip number: 13
+flip: 0
+heads 6
+tails 7
+()
+flip number: 14
+flip: 1
+heads 6
+tails 8
+()
+flip number: 15
+flip: 1
+heads 6
+tails 9
+()
+flip number: 16
+flip: 0
+heads 7
+tails 9
+()
+flip number: 17
+flip: 1
+heads 7
+tails 10
+()
+flip number: 18
+flip: 1
+heads 7
+tails 11
+()
+flip number: 19
+flip: 1
+heads 7
+tails 12
+()
+flip number: 20
+flip: 0
+heads 8
+tails 12
+()
+flip number: 21
+flip: 0
+heads 9
+tails 12
+()
+flip number: 22
+flip: 0
+heads 10
+tails 12
+()
+flip number: 23
+flip: 0
+heads 11
+tails 12
+()
+flip number: 24
+flip: 0
+heads 12
+tails 12
+()
+flip number: 25
+flip: 1
+heads 12
+tails 13
+()
+flip number: 26
+flip: 0
+heads 13
+tails 13
+()
+flip number: 27
+flip: 0
+heads 14
+tails 13
+()
+flip number: 28
+flip: 1
+heads 14
+tails 14
+()
+flip number: 29
+flip: 1
+heads 14
+tails 15
+()
+flip number: 30
+flip: 1
+heads 14
+tails 16
+()
+flip number: 31
+flip: 0
+heads 15
+tails 16
+()
+flip number: 32
+flip: 0
+heads 16
+tails 16
+()
+flip number: 33
+flip: 0
+heads 17
+tails 16
+()
+flip number: 34
+flip: 0
+heads 18
+tails 16
+()
+flip number: 35
+flip: 1
+heads 18
+tails 17
+()
+flip number: 36
+flip: 1
+heads 18
+tails 18
+()
+flip number: 37
+flip: 1
+heads 18
+tails 19
+()
+flip number: 38
+flip: 0
+heads 19
+tails 19
+()
+flip number: 39
+flip: 1
+heads 19
+tails 20
+()
+flip number: 40
+flip: 1
+heads 19
+tails 21
+()
+flip number: 41
+flip: 1
+heads 19
+tails 22
+()
+flip number: 42
+flip: 0
+heads 20
+tails 22
+()
+flip number: 43
+flip: 1
+heads 20
+tails 23
+()
+flip number: 44
+flip: 0
+heads 21
+tails 23
+()
+flip number: 45
+flip: 1
+heads 21
+tails 24
+()
+flip number: 46
+flip: 0
+heads 22
+tails 24
+()
+flip number: 47
+flip: 0
+heads 23
+tails 24
+()
+flip number: 48
+flip: 1
+heads 23
+tails 25
+()
+flip number: 49
+flip: 0
+heads 24
+tails 25
+()
+flip number: 50
+flip: 0
+heads 25
+tails 25
+()
+flip number: 51
+flip: 0
+heads 26
+tails 25
+()
+flip number: 52
+flip: 1
+heads 26
+tails 26
+()
+flip number: 53
+flip: 0
+heads 27
+tails 26
+()
+flip number: 54
+flip: 0
+heads 28
+tails 26
+()
+flip number: 55
+flip: 0
+heads 29
+tails 26
+()
+flip number: 56
+flip: 1
+heads 29
+tails 27
+()
+flip number: 57
+flip: 1
+heads 29
+tails 28
+()
+flip number: 58
+flip: 0
+heads 30
+tails 28
+()
+flip number: 59
+flip: 1
+heads 30
+tails 29
+()
+flip number: 60
+flip: 1
+heads 30
+tails 30
+()
+flip number: 61
+flip: 1
+heads 30
+tails 31
+()
+flip number: 62
+flip: 0
+heads 31
+tails 31
+()
+flip number: 63
+flip: 0
+heads 32
+tails 31
+()
+flip number: 64
+flip: 1
+heads 32
+tails 32
+()
+flip number: 65
+flip: 1
+heads 32
+tails 33
+()
+flip number: 66
+flip: 0
+heads 33
+tails 33
+()
+flip number: 67
+flip: 0
+heads 34
+tails 33
+()
+flip number: 68
+flip: 0
+heads 35
+tails 33
+()
+flip number: 69
+flip: 1
+heads 35
+tails 34
+()
+flip number: 70
+flip: 1
+heads 35
+tails 35
+()
+flip number: 71
+flip: 1
+heads 35
+tails 36
+()
+flip number: 72
+flip: 1
+heads 35
+tails 37
+()
+flip number: 73
+flip: 1
+heads 35
+tails 38
+()
+flip number: 74
+flip: 0
+heads 36
+tails 38
+()
+flip number: 75
+flip: 0
+heads 37
+tails 38
+()
+flip number: 76
+flip: 1
+heads 37
+tails 39
+()
+flip number: 77
+flip: 1
+heads 37
+tails 40
+()
+flip number: 78
+flip: 1
+heads 37
+tails 41
+()
+flip number: 79
+flip: 1
+heads 37
+tails 42
+()
+flip number: 80
+flip: 1
+heads 37
+tails 43
+()
+flip number: 81
+flip: 0
+heads 38
+tails 43
+()
+flip number: 82
+flip: 0
+heads 39
+tails 43
+()
+flip number: 83
+flip: 0
+heads 40
+tails 43
+()
+flip number: 84
+flip: 1
+heads 40
+tails 44
+()
+flip number: 85
+flip: 0
+heads 41
+tails 44
+()
+flip number: 86
+flip: 0
+heads 42
+tails 44
+()
+flip number: 87
+flip: 1
+heads 42
+tails 45
+()
+flip number: 88
+flip: 1
+heads 42
+tails 46
+()
+flip number: 89
+flip: 0
+heads 43
+tails 46
+()
+flip number: 90
+flip: 0
+heads 44
+tails 46
+()
+flip number: 91
+flip: 0
+heads 45
+tails 46
+()
+flip number: 92
+flip: 0
+heads 46
+tails 46
+()
+flip number: 93
+flip: 1
+heads 46
+tails 47
+()
+flip number: 94
+flip: 0
+heads 47
+tails 47
+()
+flip number: 95
+flip: 0
+heads 48
+tails 47
+()
+flip number: 96
+flip: 0
+heads 49
+tails 47
+()
+flip number: 97
+flip: 1
+heads 49
+tails 48
+()
+flip number: 98
+flip: 1
+heads 49
+tails 49
+()
+flip number: 99
+flip: 1
+heads 49
+tails 50
+()
+flip number: 100
+flip: 1
+heads 49
+tails 51
+()
+flip number: 101
+flip: 1
+heads 49
+tails 52
+()
+flip number: 102
+flip: 1
+heads 49
+tails 53
+()
+flip number: 103
+flip: 1
+heads 49
+tails 54
+()
+flip number: 104
+flip: 1
+heads 49
+tails 55
+()
+flip number: 105
+flip: 1
+heads 49
+tails 56
+()
+flip number: 106
+flip: 0
+heads 50
+tails 56
+()
+flip number: 107
+flip: 1
+heads 50
+tails 57
+()
+flip number: 108
+flip: 0
+heads 51
+tails 57
+()
+flip number: 109
+flip: 1
+heads 51
+tails 58
+()
+flip number: 110
+flip: 1
+heads 51
+tails 59
+()
+flip number: 111
+flip: 0
+heads 52
+tails 59
+()
+flip number: 112
+flip: 0
+heads 53
+tails 59
+()
+flip number: 113
+flip: 1
+heads 53
+tails 60
+()
+flip number: 114
+flip: 1
+heads 53
+tails 61
+()
+flip number: 115
+flip: 1
+heads 53
+tails 62
+()
+flip number: 116
+flip: 1
+heads 53
+tails 63
+()
+flip number: 117
+flip: 1
+heads 53
+tails 64
+()
+flip number: 118
+flip: 1
+heads 53
+tails 65
+()
+flip number: 119
+flip: 1
+heads 53
+tails 66
+()
+flip number: 120
+flip: 1
+heads 53
+tails 67
+()
+flip number: 121
+flip: 1
+heads 53
+tails 68
+()
+flip number: 122
+flip: 0
+heads 54
+tails 68
+()
+flip number: 123
+flip: 1
+heads 54
+tails 69
+()
+flip number: 124
+flip: 1
+heads 54
+tails 70
+()
+flip number: 125
+flip: 0
+heads 55
+tails 70
+()
+flip number: 126
+flip: 0
+heads 56
+tails 70
+()
+flip number: 127
+flip: 0
+heads 57
+tails 70
+()
+flip number: 128
+flip: 1
+heads 57
+tails 71
+()
+flip number: 129
+flip: 0
+heads 58
+tails 71
+()
+flip number: 130
+flip: 1
+heads 58
+tails 72
+()
+flip number: 131
+flip: 1
+heads 58
+tails 73
+()
+flip number: 132
+flip: 1
+heads 58
+tails 74
+()
+flip number: 133
+flip: 1
+heads 58
+tails 75
+()
+flip number: 134
+flip: 0
+heads 59
+tails 75
+()
+flip number: 135
+flip: 0
+heads 60
+tails 75
+()
+flip number: 136
+flip: 1
+heads 60
+tails 76
+()
+flip number: 137
+flip: 0
+heads 61
+tails 76
+()
+flip number: 138
+flip: 0
+heads 62
+tails 76
+()
+flip number: 139
+flip: 0
+heads 63
+tails 76
+()
+flip number: 140
+flip: 1
+heads 63
+tails 77
+()
+flip number: 141
+flip: 0
+heads 64
+tails 77
+()
+flip number: 142
+flip: 0
+heads 65
+tails 77
+()
+flip number: 143
+flip: 0
+heads 66
+tails 77
+()
+flip number: 144
+flip: 0
+heads 67
+tails 77
+()
+flip number: 145
+flip: 0
+heads 68
+tails 77
+()
+flip number: 146
+flip: 0
+heads 69
+tails 77
+()
+flip number: 147
+flip: 0
+heads 70
+tails 77
+()
+flip number: 148
+flip: 1
+heads 70
+tails 78
+()
+flip number: 149
+flip: 0
+heads 71
+tails 78
+()
+flip number: 150
+flip: 1
+heads 71
+tails 79
+()
+flip number: 151
+flip: 0
+heads 72
+tails 79
+()
+flip number: 152
+flip: 0
+heads 73
+tails 79
+()
+flip number: 153
+flip: 0
+heads 74
+tails 79
+()
+flip number: 154
+flip: 0
+heads 75
+tails 79
+()
+flip number: 155
+flip: 1
+heads 75
+tails 80
+()
+flip number: 156
+flip: 1
+heads 75
+tails 81
+()
+flip number: 157
+flip: 0
+heads 76
+tails 81
+()
+flip number: 158
+flip: 0
+heads 77
+tails 81
+()
+flip number: 159
+flip: 1
+heads 77
+tails 82
+()
+flip number: 160
+flip: 0
+heads 78
+tails 82
+()
+flip number: 161
+flip: 1
+heads 78
+tails 83
+()
+flip number: 162
+flip: 0
+heads 79
+tails 83
+()
+flip number: 163
+flip: 1
+heads 79
+tails 84
+()
+flip number: 164
+flip: 1
+heads 79
+tails 85
+()
+flip number: 165
+flip: 1
+heads 79
+tails 86
+()
+flip number: 166
+flip: 1
+heads 79
+tails 87
+()
+flip number: 167
+flip: 1
+heads 79
+tails 88
+()
+flip number: 168
+flip: 1
+heads 79
+tails 89
+()
+flip number: 169
+flip: 0
+heads 80
+tails 89
+()
+flip number: 170
+flip: 0
+heads 81
+tails 89
+()
+flip number: 171
+flip: 1
+heads 81
+tails 90
+()
+flip number: 172
+flip: 0
+heads 82
+tails 90
+()
+flip number: 173
+flip: 1
+heads 82
+tails 91
+()
+flip number: 174
+flip: 0
+heads 83
+tails 91
+()
+flip number: 175
+flip: 0
+heads 84
+tails 91
+()
+flip number: 176
+flip: 1
+heads 84
+tails 92
+()
+flip number: 177
+flip: 1
+heads 84
+tails 93
+()
+flip number: 178
+flip: 0
+heads 85
+tails 93
+()
+flip number: 179
+flip: 1
+heads 85
+tails 94
+()
+flip number: 180
+flip: 1
+heads 85
+tails 95
+()
+flip number: 181
+flip: 1
+heads 85
+tails 96
+()
+flip number: 182
+flip: 0
+heads 86
+tails 96
+()
+flip number: 183
+flip: 0
+heads 87
+tails 96
+()
+flip number: 184
+flip: 1
+heads 87
+tails 97
+()
+flip number: 185
+flip: 1
+heads 87
+tails 98
+()
+flip number: 186
+flip: 0
+heads 88
+tails 98
+()
+flip number: 187
+flip: 1
+heads 88
+tails 99
+()
+flip number: 188
+flip: 1
+heads 88
+tails 100
+()
+flip number: 189
+flip: 0
+heads 89
+tails 100
+()
+flip number: 190
+flip: 1
+heads 89
+tails 101
+()
+flip number: 191
+flip: 0
+heads 90
+tails 101
+()
+flip number: 192
+flip: 1
+heads 90
+tails 102
+()
+flip number: 193
+flip: 0
+heads 91
+tails 102
+()
+flip number: 194
+flip: 0
+heads 92
+tails 102
+()
+flip number: 195
+flip: 0
+heads 93
+tails 102
+()
+flip number: 196
+flip: 1
+heads 93
+tails 103
+()
+flip number: 197
+flip: 0
+heads 94
+tails 103
+()
+flip number: 198
+flip: 0
+heads 95
+tails 103
+()
+flip number: 199
+flip: 1
+heads 95
+tails 104
+()
+flip number: 200
+flip: 0
+heads 96
+tails 104
+()
+flip number: 201
+flip: 1
+heads 96
+tails 105
+()
+flip number: 202
+flip: 0
+heads 97
+tails 105
+()
+flip number: 203
+flip: 0
+heads 98
+tails 105
+()
+flip number: 204
+flip: 1
+heads 98
+tails 106
+()
+flip number: 205
+flip: 1
+heads 98
+tails 107
+()
+flip number: 206
+flip: 0
+heads 99
+tails 107
+()
+flip number: 207
+flip: 0
+heads 100
+tails 107
+()
+flip number: 208
+flip: 1
+heads 100
+tails 108
+()
+flip number: 209
+flip: 0
+heads 101
+tails 108
+()
+flip number: 210
+flip: 0
+heads 102
+tails 108
+()
+flip number: 211
+flip: 0
+heads 103
+tails 108
+()
+flip number: 212
+flip: 1
+heads 103
+tails 109
+()
+flip number: 213
+flip: 0
+heads 104
+tails 109
+()
+flip number: 214
+flip: 1
+heads 104
+tails 110
+()
+flip number: 215
+flip: 1
+heads 104
+tails 111
+()
+flip number: 216
+flip: 0
+heads 105
+tails 111
+()
+flip number: 217
+flip: 0
+heads 106
+tails 111
+()
+flip number: 218
+flip: 1
+heads 106
+tails 112
+()
+flip number: 219
+flip: 0
+heads 107
+tails 112
+()
+flip number: 220
+flip: 0
+heads 108
+tails 112
+()
+flip number: 221
+flip: 0
+heads 109
+tails 112
+()
+flip number: 222
+flip: 0
+heads 110
+tails 112
+()
+flip number: 223
+flip: 0
+heads 111
+tails 112
+()
+flip number: 224
+flip: 0
+heads 112
+tails 112
+()
+flip number: 225
+flip: 1
+heads 112
+tails 113
+()
+flip number: 226
+flip: 0
+heads 113
+tails 113
+()
+flip number: 227
+flip: 1
+heads 113
+tails 114
+()
+flip number: 228
+flip: 0
+heads 114
+tails 114
+()
+flip number: 229
+flip: 0
+heads 115
+tails 114
+()
+flip number: 230
+flip: 1
+heads 115
+tails 115
+()
+flip number: 231
+flip: 1
+heads 115
+tails 116
+()
+flip number: 232
+flip: 0
+heads 116
+tails 116
+()
+flip number: 233
+flip: 1
+heads 116
+tails 117
+()
+flip number: 234
+flip: 1
+heads 116
+tails 118
+()
+flip number: 235
+flip: 1
+heads 116
+tails 119
+()
+flip number: 236
+flip: 1
+heads 116
+tails 120
+()
+flip number: 237
+flip: 1
+heads 116
+tails 121
+()
+flip number: 238
+flip: 1
+heads 116
+tails 122
+()
+flip number: 239
+flip: 1
+heads 116
+tails 123
+()
+flip number: 240
+flip: 0
+heads 117
+tails 123
+()
+flip number: 241
+flip: 1
+heads 117
+tails 124
+()
+flip number: 242
+flip: 1
+heads 117
+tails 125
+()
+flip number: 243
+flip: 0
+heads 118
+tails 125
+()
+flip number: 244
+flip: 0
+heads 119
+tails 125
+()
+flip number: 245
+flip: 0
+heads 120
+tails 125
+()
+flip number: 246
+flip: 1
+heads 120
+tails 126
+()
+flip number: 247
+flip: 1
+heads 120
+tails 127
+()
+flip number: 248
+flip: 1
+heads 120
+tails 128
+()
+flip number: 249
+flip: 1
+heads 120
+tails 129
+()
+flip number: 250
+flip: 1
+heads 120
+tails 130
+()
+flip number: 251
+flip: 1
+heads 120
+tails 131
+()
+flip number: 252
+flip: 1
+heads 120
+tails 132
+()
+flip number: 253
+flip: 0
+heads 121
+tails 132
+()
+flip number: 254
+flip: 0
+heads 122
+tails 132
+()
+flip number: 255
+flip: 1
+heads 122
+tails 133
+()
+flip number: 256
+flip: 1
+heads 122
+tails 134
+()
+flip number: 257
+flip: 1
+heads 122
+tails 135
+()
+flip number: 258
+flip: 0
+heads 123
+tails 135
+()
+flip number: 259
+flip: 0
+heads 124
+tails 135
+()
+flip number: 260
+flip: 1
+heads 124
+tails 136
+()
+flip number: 261
+flip: 1
+heads 124
+tails 137
+()
+flip number: 262
+flip: 1
+heads 124
+tails 138
+()
+flip number: 263
+flip: 1
+heads 124
+tails 139
+()
+flip number: 264
+flip: 0
+heads 125
+tails 139
+()
+flip number: 265
+flip: 1
+heads 125
+tails 140
+()
+flip number: 266
+flip: 0
+heads 126
+tails 140
+()
+flip number: 267
+flip: 1
+heads 126
+tails 141
+()
+flip number: 268
+flip: 0
+heads 127
+tails 141
+()
+flip number: 269
+flip: 0
+heads 128
+tails 141
+()
+flip number: 270
+flip: 0
+heads 129
+tails 141
+()
+flip number: 271
+flip: 1
+heads 129
+tails 142
+()
+flip number: 272
+flip: 0
+heads 130
+tails 142
+()
+flip number: 273
+flip: 0
+heads 131
+tails 142
+()
+flip number: 274
+flip: 1
+heads 131
+tails 143
+()
+flip number: 275
+flip: 1
+heads 131
+tails 144
+()
+flip number: 276
+flip: 0
+heads 132
+tails 144
+()
+flip number: 277
+flip: 1
+heads 132
+tails 145
+()
+flip number: 278
+flip: 0
+heads 133
+tails 145
+()
+flip number: 279
+flip: 0
+heads 134
+tails 145
+()
+flip number: 280
+flip: 0
+heads 135
+tails 145
+()
+flip number: 281
+flip: 1
+heads 135
+tails 146
+()
+flip number: 282
+flip: 0
+heads 136
+tails 146
+()
+flip number: 283
+flip: 0
+heads 137
+tails 146
+()
+flip number: 284
+flip: 1
+heads 137
+tails 147
+()
+flip number: 285
+flip: 0
+heads 138
+tails 147
+()
+flip number: 286
+flip: 1
+heads 138
+tails 148
+()
+flip number: 287
+flip: 0
+heads 139
+tails 148
+()
+flip number: 288
+flip: 0
+heads 140
+tails 148
+()
+flip number: 289
+flip: 0
+heads 141
+tails 148
+()
+flip number: 290
+flip: 1
+heads 141
+tails 149
+()
+flip number: 291
+flip: 0
+heads 142
+tails 149
+()
+flip number: 292
+flip: 0
+heads 143
+tails 149
+()
+flip number: 293
+flip: 0
+heads 144
+tails 149
+()
+flip number: 294
+flip: 1
+heads 144
+tails 150
+()
+flip number: 295
+flip: 0
+heads 145
+tails 150
+()
+flip number: 296
+flip: 1
+heads 145
+tails 151
+()
+flip number: 297
+flip: 0
+heads 146
+tails 151
+()
+flip number: 298
+flip: 1
+heads 146
+tails 152
+()
+flip number: 299
+flip: 0
+heads 147
+tails 152
+()
+flip number: 300
+flip: 1
+heads 147
+tails 153
+()
+flip number: 301
+flip: 0
+heads 148
+tails 153
+()
+flip number: 302
+flip: 0
+heads 149
+tails 153
+()
+flip number: 303
+flip: 1
+heads 149
+tails 154
+()
+flip number: 304
+flip: 0
+heads 150
+tails 154
+()
+flip number: 305
+flip: 0
+heads 151
+tails 154
+()
+flip number: 306
+flip: 1
+heads 151
+tails 155
+()
+flip number: 307
+flip: 1
+heads 151
+tails 156
+()
+flip number: 308
+flip: 0
+heads 152
+tails 156
+()
+flip number: 309
+flip: 0
+heads 153
+tails 156
+()
+flip number: 310
+flip: 0
+heads 154
+tails 156
+()
+flip number: 311
+flip: 1
+heads 154
+tails 157
+()
+flip number: 312
+flip: 1
+heads 154
+tails 158
+()
+flip number: 313
+flip: 1
+heads 154
+tails 159
+()
+flip number: 314
+flip: 0
+heads 155
+tails 159
+()
+flip number: 315
+flip: 1
+heads 155
+tails 160
+()
+flip number: 316
+flip: 0
+heads 156
+tails 160
+()
+flip number: 317
+flip: 0
+heads 157
+tails 160
+()
+flip number: 318
+flip: 1
+heads 157
+tails 161
+()
+flip number: 319
+flip: 1
+heads 157
+tails 162
+()
+flip number: 320
+flip: 0
+heads 158
+tails 162
+()
+flip number: 321
+flip: 1
+heads 158
+tails 163
+()
+flip number: 322
+flip: 0
+heads 159
+tails 163
+()
+flip number: 323
+flip: 0
+heads 160
+tails 163
+()
+flip number: 324
+flip: 0
+heads 161
+tails 163
+()
+flip number: 325
+flip: 0
+heads 162
+tails 163
+()
+flip number: 326
+flip: 1
+heads 162
+tails 164
+()
+flip number: 327
+flip: 0
+heads 163
+tails 164
+()
+flip number: 328
+flip: 0
+heads 164
+tails 164
+()
+flip number: 329
+flip: 1
+heads 164
+tails 165
+()
+flip number: 330
+flip: 1
+heads 164
+tails 166
+()
+flip number: 331
+flip: 0
+heads 165
+tails 166
+()
+flip number: 332
+flip: 1
+heads 165
+tails 167
+()
+flip number: 333
+flip: 0
+heads 166
+tails 167
+()
+flip number: 334
+flip: 1
+heads 166
+tails 168
+()
+flip number: 335
+flip: 0
+heads 167
+tails 168
+()
+flip number: 336
+flip: 1
+heads 167
+tails 169
+()
+flip number: 337
+flip: 0
+heads 168
+tails 169
+()
+flip number: 338
+flip: 1
+heads 168
+tails 170
+()
+flip number: 339
+flip: 0
+heads 169
+tails 170
+()
+flip number: 340
+flip: 1
+heads 169
+tails 171
+()
+flip number: 341
+flip: 1
+heads 169
+tails 172
+()
+flip number: 342
+flip: 1
+heads 169
+tails 173
+()
+flip number: 343
+flip: 1
+heads 169
+tails 174
+()
+flip number: 344
+flip: 0
+heads 170
+tails 174
+()
+flip number: 345
+flip: 0
+heads 171
+tails 174
+()
+flip number: 346
+flip: 1
+heads 171
+tails 175
+()
+flip number: 347
+flip: 1
+heads 171
+tails 176
+()
+flip number: 348
+flip: 0
+heads 172
+tails 176
+()
+flip number: 349
+flip: 1
+heads 172
+tails 177
+()
+flip number: 350
+flip: 1
+heads 172
+tails 178
+()
+flip number: 351
+flip: 1
+heads 172
+tails 179
+()
+flip number: 352
+flip: 1
+heads 172
+tails 180
+()
+flip number: 353
+flip: 1
+heads 172
+tails 181
+()
+flip number: 354
+flip: 0
+heads 173
+tails 181
+()
+flip number: 355
+flip: 1
+heads 173
+tails 182
+()
+flip number: 356
+flip: 1
+heads 173
+tails 183
+()
+flip number: 357
+flip: 0
+heads 174
+tails 183
+()
+flip number: 358
+flip: 1
+heads 174
+tails 184
+()
+flip number: 359
+flip: 1
+heads 174
+tails 185
+()
+flip number: 360
+flip: 1
+heads 174
+tails 186
+()
+flip number: 361
+flip: 1
+heads 174
+tails 187
+()
+flip number: 362
+flip: 0
+heads 175
+tails 187
+()
+flip number: 363
+flip: 0
+heads 176
+tails 187
+()
+flip number: 364
+flip: 0
+heads 177
+tails 187
+()
+flip number: 365
+flip: 1
+heads 177
+tails 188
+()
+flip number: 366
+flip: 1
+heads 177
+tails 189
+()
+flip number: 367
+flip: 1
+heads 177
+tails 190
+()
+flip number: 368
+flip: 0
+heads 178
+tails 190
+()
+flip number: 369
+flip: 0
+heads 179
+tails 190
+()
+flip number: 370
+flip: 0
+heads 180
+tails 190
+()
+flip number: 371
+flip: 0
+heads 181
+tails 190
+()
+flip number: 372
+flip: 1
+heads 181
+tails 191
+()
+flip number: 373
+flip: 1
+heads 181
+tails 192
+()
+flip number: 374
+flip: 0
+heads 182
+tails 192
+()
+flip number: 375
+flip: 1
+heads 182
+tails 193
+()
+flip number: 376
+flip: 0
+heads 183
+tails 193
+()
+flip number: 377
+flip: 1
+heads 183
+tails 194
+()
+flip number: 378
+flip: 0
+heads 184
+tails 194
+()
+flip number: 379
+flip: 0
+heads 185
+tails 194
+()
+flip number: 380
+flip: 1
+heads 185
+tails 195
+()
+flip number: 381
+flip: 0
+heads 186
+tails 195
+()
+flip number: 382
+flip: 1
+heads 186
+tails 196
+()
+flip number: 383
+flip: 1
+heads 186
+tails 197
+()
+flip number: 384
+flip: 1
+heads 186
+tails 198
+()
+flip number: 385
+flip: 1
+heads 186
+tails 199
+()
+flip number: 386
+flip: 1
+heads 186
+tails 200
+()
+flip number: 387
+flip: 1
+heads 186
+tails 201
+()
+flip number: 388
+flip: 0
+heads 187
+tails 201
+()
+flip number: 389
+flip: 1
+heads 187
+tails 202
+()
+flip number: 390
+flip: 0
+heads 188
+tails 202
+()
+flip number: 391
+flip: 1
+heads 188
+tails 203
+()
+flip number: 392
+flip: 0
+heads 189
+tails 203
+()
+flip number: 393
+flip: 1
+heads 189
+tails 204
+()
+flip number: 394
+flip: 0
+heads 190
+tails 204
+()
+flip number: 395
+flip: 0
+heads 191
+tails 204
+()
+flip number: 396
+flip: 0
+heads 192
+tails 204
+()
+flip number: 397
+flip: 0
+heads 193
+tails 204
+()
+flip number: 398
+flip: 0
+heads 194
+tails 204
+()
+flip number: 399
+flip: 1
+heads 194
+tails 205
+()
+flip number: 400
+flip: 0
+heads 195
+tails 205
+()
+flip number: 401
+flip: 0
+heads 196
+tails 205
+()
+flip number: 402
+flip: 0
+heads 197
+tails 205
+()
+flip number: 403
+flip: 0
+heads 198
+tails 205
+()
+flip number: 404
+flip: 0
+heads 199
+tails 205
+()
+flip number: 405
+flip: 1
+heads 199
+tails 206
+()
+flip number: 406
+flip: 0
+heads 200
+tails 206
+()
+flip number: 407
+flip: 1
+heads 200
+tails 207
+()
+flip number: 408
+flip: 1
+heads 200
+tails 208
+()
+flip number: 409
+flip: 0
+heads 201
+tails 208
+()
+flip number: 410
+flip: 1
+heads 201
+tails 209
+()
+flip number: 411
+flip: 0
+heads 202
+tails 209
+()
+flip number: 412
+flip: 0
+heads 203
+tails 209
+()
+flip number: 413
+flip: 0
+heads 204
+tails 209
+()
+flip number: 414
+flip: 1
+heads 204
+tails 210
+()
+flip number: 415
+flip: 1
+heads 204
+tails 211
+()
+flip number: 416
+flip: 0
+heads 205
+tails 211
+()
+flip number: 417
+flip: 1
+heads 205
+tails 212
+()
+flip number: 418
+flip: 0
+heads 206
+tails 212
+()
+flip number: 419
+flip: 0
+heads 207
+tails 212
+()
+flip number: 420
+flip: 0
+heads 208
+tails 212
+()
+flip number: 421
+flip: 0
+heads 209
+tails 212
+()
+flip number: 422
+flip: 0
+heads 210
+tails 212
+()
+flip number: 423
+flip: 1
+heads 210
+tails 213
+()
+flip number: 424
+flip: 0
+heads 211
+tails 213
+()
+flip number: 425
+flip: 1
+heads 211
+tails 214
+()
+flip number: 426
+flip: 1
+heads 211
+tails 215
+()
+flip number: 427
+flip: 0
+heads 212
+tails 215
+()
+flip number: 428
+flip: 0
+heads 213
+tails 215
+()
+flip number: 429
+flip: 0
+heads 214
+tails 215
+()
+flip number: 430
+flip: 1
+heads 214
+tails 216
+()
+flip number: 431
+flip: 1
+heads 214
+tails 217
+()
+flip number: 432
+flip: 1
+heads 214
+tails 218
+()
+flip number: 433
+flip: 1
+heads 214
+tails 219
+()
+flip number: 434
+flip: 1
+heads 214
+tails 220
+()
+flip number: 435
+flip: 0
+heads 215
+tails 220
+()
+flip number: 436
+flip: 0
+heads 216
+tails 220
+()
+flip number: 437
+flip: 0
+heads 217
+tails 220
+()
+flip number: 438
+flip: 0
+heads 218
+tails 220
+()
+flip number: 439
+flip: 0
+heads 219
+tails 220
+()
+flip number: 440
+flip: 0
+heads 220
+tails 220
+()
+flip number: 441
+flip: 0
+heads 221
+tails 220
+()
+flip number: 442
+flip: 1
+heads 221
+tails 221
+()
+flip number: 443
+flip: 0
+heads 222
+tails 221
+()
+flip number: 444
+flip: 1
+heads 222
+tails 222
+()
+flip number: 445
+flip: 0
+heads 223
+tails 222
+()
+flip number: 446
+flip: 1
+heads 223
+tails 223
+()
+flip number: 447
+flip: 0
+heads 224
+tails 223
+()
+flip number: 448
+flip: 1
+heads 224
+tails 224
+()
+flip number: 449
+flip: 0
+heads 225
+tails 224
+()
+flip number: 450
+flip: 1
+heads 225
+tails 225
+()
+flip number: 451
+flip: 1
+heads 225
+tails 226
+()
+flip number: 452
+flip: 1
+heads 225
+tails 227
+()
+flip number: 453
+flip: 1
+heads 225
+tails 228
+()
+flip number: 454
+flip: 0
+heads 226
+tails 228
+()
+flip number: 455
+flip: 0
+heads 227
+tails 228
+()
+flip number: 456
+flip: 1
+heads 227
+tails 229
+()
+flip number: 457
+flip: 0
+heads 228
+tails 229
+()
+flip number: 458
+flip: 0
+heads 229
+tails 229
+()
+flip number: 459
+flip: 0
+heads 230
+tails 229
+()
+flip number: 460
+flip: 0
+heads 231
+tails 229
+()
+flip number: 461
+flip: 1
+heads 231
+tails 230
+()
+flip number: 462
+flip: 0
+heads 232
+tails 230
+()
+flip number: 463
+flip: 1
+heads 232
+tails 231
+()
+flip number: 464
+flip: 1
+heads 232
+tails 232
+()
+flip number: 465
+flip: 0
+heads 233
+tails 232
+()
+flip number: 466
+flip: 1
+heads 233
+tails 233
+()
+flip number: 467
+flip: 0
+heads 234
+tails 233
+()
+flip number: 468
+flip: 0
+heads 235
+tails 233
+()
+flip number: 469
+flip: 1
+heads 235
+tails 234
+()
+flip number: 470
+flip: 1
+heads 235
+tails 235
+()
+flip number: 471
+flip: 0
+heads 236
+tails 235
+()
+flip number: 472
+flip: 1
+heads 236
+tails 236
+()
+flip number: 473
+flip: 1
+heads 236
+tails 237
+()
+flip number: 474
+flip: 0
+heads 237
+tails 237
+()
+flip number: 475
+flip: 0
+heads 238
+tails 237
+()
+flip number: 476
+flip: 0
+heads 239
+tails 237
+()
+flip number: 477
+flip: 1
+heads 239
+tails 238
+()
+flip number: 478
+flip: 1
+heads 239
+tails 239
+()
+flip number: 479
+flip: 1
+heads 239
+tails 240
+()
+flip number: 480
+flip: 0
+heads 240
+tails 240
+()
+flip number: 481
+flip: 1
+heads 240
+tails 241
+()
+flip number: 482
+flip: 0
+heads 241
+tails 241
+()
+flip number: 483
+flip: 0
+heads 242
+tails 241
+()
+flip number: 484
+flip: 0
+heads 243
+tails 241
+()
+flip number: 485
+flip: 1
+heads 243
+tails 242
+()
+flip number: 486
+flip: 0
+heads 244
+tails 242
+()
+flip number: 487
+flip: 1
+heads 244
+tails 243
+()
+flip number: 488
+flip: 1
+heads 244
+tails 244
+()
+flip number: 489
+flip: 1
+heads 244
+tails 245
+()
+flip number: 490
+flip: 0
+heads 245
+tails 245
+()
+flip number: 491
+flip: 1
+heads 245
+tails 246
+()
+flip number: 492
+flip: 1
+heads 245
+tails 247
+()
+flip number: 493
+flip: 1
+heads 245
+tails 248
+()
+flip number: 494
+flip: 1
+heads 245
+tails 249
+()
+flip number: 495
+flip: 0
+heads 246
+tails 249
+()
+flip number: 496
+flip: 0
+heads 247
+tails 249
+()
+flip number: 497
+flip: 1
+heads 247
+tails 250
+()
+flip number: 498
+flip: 0
+heads 248
+tails 250
+()
+flip number: 499
+flip: 1
+heads 248
+tails 251
+()
+flip number: 500
+flip: 0
+heads 249
+tails 251
+()
+flip number: 501
+flip: 1
+heads 249
+tails 252
+()
+flip number: 502
+flip: 0
+heads 250
+tails 252
+()
+flip number: 503
+flip: 1
+heads 250
+tails 253
+()
+flip number: 504
+flip: 0
+heads 251
+tails 253
+()
+flip number: 505
+flip: 0
+heads 252
+tails 253
+()
+flip number: 506
+flip: 0
+heads 253
+tails 253
+()
+flip number: 507
+flip: 1
+heads 253
+tails 254
+()
+flip number: 508
+flip: 1
+heads 253
+tails 255
+()
+flip number: 509
+flip: 0
+heads 254
+tails 255
+()
+flip number: 510
+flip: 1
+heads 254
+tails 256
+()
+flip number: 511
+flip: 1
+heads 254
+tails 257
+()
+flip number: 512
+flip: 1
+heads 254
+tails 258
+()
+flip number: 513
+flip: 1
+heads 254
+tails 259
+()
+flip number: 514
+flip: 1
+heads 254
+tails 260
+()
+flip number: 515
+flip: 0
+heads 255
+tails 260
+()
+flip number: 516
+flip: 1
+heads 255
+tails 261
+()
+flip number: 517
+flip: 0
+heads 256
+tails 261
+()
+flip number: 518
+flip: 1
+heads 256
+tails 262
+()
+flip number: 519
+flip: 1
+heads 256
+tails 263
+()
+flip number: 520
+flip: 1
+heads 256
+tails 264
+()
+flip number: 521
+flip: 0
+heads 257
+tails 264
+()
+flip number: 522
+flip: 1
+heads 257
+tails 265
+()
+flip number: 523
+flip: 0
+heads 258
+tails 265
+()
+flip number: 524
+flip: 1
+heads 258
+tails 266
+()
+flip number: 525
+flip: 1
+heads 258
+tails 267
+()
+flip number: 526
+flip: 0
+heads 259
+tails 267
+()
+flip number: 527
+flip: 0
+heads 260
+tails 267
+()
+flip number: 528
+flip: 0
+heads 261
+tails 267
+()
+flip number: 529
+flip: 1
+heads 261
+tails 268
+()
+flip number: 530
+flip: 0
+heads 262
+tails 268
+()
+flip number: 531
+flip: 1
+heads 262
+tails 269
+()
+flip number: 532
+flip: 1
+heads 262
+tails 270
+()
+flip number: 533
+flip: 0
+heads 263
+tails 270
+()
+flip number: 534
+flip: 0
+heads 264
+tails 270
+()
+flip number: 535
+flip: 1
+heads 264
+tails 271
+()
+flip number: 536
+flip: 0
+heads 265
+tails 271
+()
+flip number: 537
+flip: 0
+heads 266
+tails 271
+()
+flip number: 538
+flip: 0
+heads 267
+tails 271
+()
+flip number: 539
+flip: 1
+heads 267
+tails 272
+()
+flip number: 540
+flip: 1
+heads 267
+tails 273
+()
+flip number: 541
+flip: 1
+heads 267
+tails 274
+()
+flip number: 542
+flip: 1
+heads 267
+tails 275
+()
+flip number: 543
+flip: 1
+heads 267
+tails 276
+()
+flip number: 544
+flip: 1
+heads 267
+tails 277
+()
+flip number: 545
+flip: 1
+heads 267
+tails 278
+()
+flip number: 546
+flip: 0
+heads 268
+tails 278
+()
+flip number: 547
+flip: 1
+heads 268
+tails 279
+()
+flip number: 548
+flip: 0
+heads 269
+tails 279
+()
+flip number: 549
+flip: 0
+heads 270
+tails 279
+()
+flip number: 550
+flip: 0
+heads 271
+tails 279
+()
+flip number: 551
+flip: 0
+heads 272
+tails 279
+()
+flip number: 552
+flip: 0
+heads 273
+tails 279
+()
+flip number: 553
+flip: 1
+heads 273
+tails 280
+()
+flip number: 554
+flip: 1
+heads 273
+tails 281
+()
+flip number: 555
+flip: 0
+heads 274
+tails 281
+()
+flip number: 556
+flip: 0
+heads 275
+tails 281
+()
+flip number: 557
+flip: 0
+heads 276
+tails 281
+()
+flip number: 558
+flip: 1
+heads 276
+tails 282
+()
+flip number: 559
+flip: 1
+heads 276
+tails 283
+()
+flip number: 560
+flip: 0
+heads 277
+tails 283
+()
+flip number: 561
+flip: 0
+heads 278
+tails 283
+()
+flip number: 562
+flip: 1
+heads 278
+tails 284
+()
+flip number: 563
+flip: 0
+heads 279
+tails 284
+()
+flip number: 564
+flip: 0
+heads 280
+tails 284
+()
+flip number: 565
+flip: 1
+heads 280
+tails 285
+()
+flip number: 566
+flip: 0
+heads 281
+tails 285
+()
+flip number: 567
+flip: 1
+heads 281
+tails 286
+()
+flip number: 568
+flip: 1
+heads 281
+tails 287
+()
+flip number: 569
+flip: 0
+heads 282
+tails 287
+()
+flip number: 570
+flip: 0
+heads 283
+tails 287
+()
+flip number: 571
+flip: 0
+heads 284
+tails 287
+()
+flip number: 572
+flip: 1
+heads 284
+tails 288
+()
+flip number: 573
+flip: 1
+heads 284
+tails 289
+()
+flip number: 574
+flip: 0
+heads 285
+tails 289
+()
+flip number: 575
+flip: 1
+heads 285
+tails 290
+()
+flip number: 576
+flip: 0
+heads 286
+tails 290
+()
+flip number: 577
+flip: 1
+heads 286
+tails 291
+()
+flip number: 578
+flip: 0
+heads 287
+tails 291
+()
+flip number: 579
+flip: 0
+heads 288
+tails 291
+()
+flip number: 580
+flip: 0
+heads 289
+tails 291
+()
+flip number: 581
+flip: 1
+heads 289
+tails 292
+()
+flip number: 582
+flip: 0
+heads 290
+tails 292
+()
+flip number: 583
+flip: 1
+heads 290
+tails 293
+()
+flip number: 584
+flip: 0
+heads 291
+tails 293
+()
+flip number: 585
+flip: 1
+heads 291
+tails 294
+()
+flip number: 586
+flip: 0
+heads 292
+tails 294
+()
+flip number: 587
+flip: 1
+heads 292
+tails 295
+()
+flip number: 588
+flip: 0
+heads 293
+tails 295
+()
+flip number: 589
+flip: 1
+heads 293
+tails 296
+()
+flip number: 590
+flip: 1
+heads 293
+tails 297
+()
+flip number: 591
+flip: 1
+heads 293
+tails 298
+()
+flip number: 592
+flip: 0
+heads 294
+tails 298
+()
+flip number: 593
+flip: 1
+heads 294
+tails 299
+()
+flip number: 594
+flip: 1
+heads 294
+tails 300
+()
+flip number: 595
+flip: 0
+heads 295
+tails 300
+()
+flip number: 596
+flip: 1
+heads 295
+tails 301
+()
+flip number: 597
+flip: 0
+heads 296
+tails 301
+()
+flip number: 598
+flip: 1
+heads 296
+tails 302
+()
+flip number: 599
+flip: 1
+heads 296
+tails 303
+()
+flip number: 600
+flip: 0
+heads 297
+tails 303
+()
+flip number: 601
+flip: 0
+heads 298
+tails 303
+()
+flip number: 602
+flip: 0
+heads 299
+tails 303
+()
+flip number: 603
+flip: 1
+heads 299
+tails 304
+()
+flip number: 604
+flip: 1
+heads 299
+tails 305
+()
+flip number: 605
+flip: 0
+heads 300
+tails 305
+()
+flip number: 606
+flip: 0
+heads 301
+tails 305
+()
+flip number: 607
+flip: 1
+heads 301
+tails 306
+()
+flip number: 608
+flip: 0
+heads 302
+tails 306
+()
+flip number: 609
+flip: 0
+heads 303
+tails 306
+()
+flip number: 610
+flip: 1
+heads 303
+tails 307
+()
+flip number: 611
+flip: 1
+heads 303
+tails 308
+()
+flip number: 612
+flip: 0
+heads 304
+tails 308
+()
+flip number: 613
+flip: 1
+heads 304
+tails 309
+()
+flip number: 614
+flip: 1
+heads 304
+tails 310
+()
+flip number: 615
+flip: 1
+heads 304
+tails 311
+()
+flip number: 616
+flip: 1
+heads 304
+tails 312
+()
+flip number: 617
+flip: 0
+heads 305
+tails 312
+()
+flip number: 618
+flip: 1
+heads 305
+tails 313
+()
+flip number: 619
+flip: 0
+heads 306
+tails 313
+()
+flip number: 620
+flip: 0
+heads 307
+tails 313
+()
+flip number: 621
+flip: 0
+heads 308
+tails 313
+()
+flip number: 622
+flip: 1
+heads 308
+tails 314
+()
+flip number: 623
+flip: 0
+heads 309
+tails 314
+()
+flip number: 624
+flip: 0
+heads 310
+tails 314
+()
+flip number: 625
+flip: 1
+heads 310
+tails 315
+()
+flip number: 626
+flip: 0
+heads 311
+tails 315
+()
+flip number: 627
+flip: 0
+heads 312
+tails 315
+()
+flip number: 628
+flip: 0
+heads 313
+tails 315
+()
+flip number: 629
+flip: 1
+heads 313
+tails 316
+()
+flip number: 630
+flip: 0
+heads 314
+tails 316
+()
+flip number: 631
+flip: 1
+heads 314
+tails 317
+()
+flip number: 632
+flip: 0
+heads 315
+tails 317
+()
+flip number: 633
+flip: 1
+heads 315
+tails 318
+()
+flip number: 634
+flip: 0
+heads 316
+tails 318
+()
+flip number: 635
+flip: 0
+heads 317
+tails 318
+()
+flip number: 636
+flip: 0
+heads 318
+tails 318
+()
+flip number: 637
+flip: 1
+heads 318
+tails 319
+()
+flip number: 638
+flip: 0
+heads 319
+tails 319
+()
+flip number: 639
+flip: 0
+heads 320
+tails 319
+()
+flip number: 640
+flip: 1
+heads 320
+tails 320
+()
+flip number: 641
+flip: 0
+heads 321
+tails 320
+()
+flip number: 642
+flip: 1
+heads 321
+tails 321
+()
+flip number: 643
+flip: 0
+heads 322
+tails 321
+()
+flip number: 644
+flip: 1
+heads 322
+tails 322
+()
+flip number: 645
+flip: 0
+heads 323
+tails 322
+()
+flip number: 646
+flip: 1
+heads 323
+tails 323
+()
+flip number: 647
+flip: 1
+heads 323
+tails 324
+()
+flip number: 648
+flip: 0
+heads 324
+tails 324
+()
+flip number: 649
+flip: 1
+heads 324
+tails 325
+()
+flip number: 650
+flip: 0
+heads 325
+tails 325
+()
+flip number: 651
+flip: 0
+heads 326
+tails 325
+()
+flip number: 652
+flip: 0
+heads 327
+tails 325
+()
+flip number: 653
+flip: 1
+heads 327
+tails 326
+()
+flip number: 654
+flip: 0
+heads 328
+tails 326
+()
+flip number: 655
+flip: 0
+heads 329
+tails 326
+()
+flip number: 656
+flip: 1
+heads 329
+tails 327
+()
+flip number: 657
+flip: 0
+heads 330
+tails 327
+()
+flip number: 658
+flip: 0
+heads 331
+tails 327
+()
+flip number: 659
+flip: 0
+heads 332
+tails 327
+()
+flip number: 660
+flip: 1
+heads 332
+tails 328
+()
+flip number: 661
+flip: 0
+heads 333
+tails 328
+()
+flip number: 662
+flip: 1
+heads 333
+tails 329
+()
+flip number: 663
+flip: 0
+heads 334
+tails 329
+()
+flip number: 664
+flip: 0
+heads 335
+tails 329
+()
+flip number: 665
+flip: 1
+heads 335
+tails 330
+()
+flip number: 666
+flip: 0
+heads 336
+tails 330
+()
+flip number: 667
+flip: 1
+heads 336
+tails 331
+()
+flip number: 668
+flip: 0
+heads 337
+tails 331
+()
+flip number: 669
+flip: 0
+heads 338
+tails 331
+()
+flip number: 670
+flip: 1
+heads 338
+tails 332
+()
+flip number: 671
+flip: 0
+heads 339
+tails 332
+()
+flip number: 672
+flip: 1
+heads 339
+tails 333
+()
+flip number: 673
+flip: 1
+heads 339
+tails 334
+()
+flip number: 674
+flip: 1
+heads 339
+tails 335
+()
+flip number: 675
+flip: 1
+heads 339
+tails 336
+()
+flip number: 676
+flip: 0
+heads 340
+tails 336
+()
+flip number: 677
+flip: 1
+heads 340
+tails 337
+()
+flip number: 678
+flip: 0
+heads 341
+tails 337
+()
+flip number: 679
+flip: 0
+heads 342
+tails 337
+()
+flip number: 680
+flip: 1
+heads 342
+tails 338
+()
+flip number: 681
+flip: 1
+heads 342
+tails 339
+()
+flip number: 682
+flip: 1
+heads 342
+tails 340
+()
+flip number: 683
+flip: 0
+heads 343
+tails 340
+()
+flip number: 684
+flip: 0
+heads 344
+tails 340
+()
+flip number: 685
+flip: 1
+heads 344
+tails 341
+()
+flip number: 686
+flip: 0
+heads 345
+tails 341
+()
+flip number: 687
+flip: 1
+heads 345
+tails 342
+()
+flip number: 688
+flip: 0
+heads 346
+tails 342
+()
+flip number: 689
+flip: 0
+heads 347
+tails 342
+()
+flip number: 690
+flip: 0
+heads 348
+tails 342
+()
+flip number: 691
+flip: 0
+heads 349
+tails 342
+()
+flip number: 692
+flip: 0
+heads 350
+tails 342
+()
+flip number: 693
+flip: 0
+heads 351
+tails 342
+()
+flip number: 694
+flip: 0
+heads 352
+tails 342
+()
+flip number: 695
+flip: 0
+heads 353
+tails 342
+()
+flip number: 696
+flip: 0
+heads 354
+tails 342
+()
+flip number: 697
+flip: 0
+heads 355
+tails 342
+()
+flip number: 698
+flip: 1
+heads 355
+tails 343
+()
+flip number: 699
+flip: 1
+heads 355
+tails 344
+()
+flip number: 700
+flip: 0
+heads 356
+tails 344
+()
+flip number: 701
+flip: 0
+heads 357
+tails 344
+()
+flip number: 702
+flip: 0
+heads 358
+tails 344
+()
+flip number: 703
+flip: 1
+heads 358
+tails 345
+()
+flip number: 704
+flip: 0
+heads 359
+tails 345
+()
+flip number: 705
+flip: 0
+heads 360
+tails 345
+()
+flip number: 706
+flip: 0
+heads 361
+tails 345
+()
+flip number: 707
+flip: 0
+heads 362
+tails 345
+()
+flip number: 708
+flip: 1
+heads 362
+tails 346
+()
+flip number: 709
+flip: 1
+heads 362
+tails 347
+()
+flip number: 710
+flip: 0
+heads 363
+tails 347
+()
+flip number: 711
+flip: 1
+heads 363
+tails 348
+()
+flip number: 712
+flip: 1
+heads 363
+tails 349
+()
+flip number: 713
+flip: 0
+heads 364
+tails 349
+()
+flip number: 714
+flip: 1
+heads 364
+tails 350
+()
+flip number: 715
+flip: 0
+heads 365
+tails 350
+()
+flip number: 716
+flip: 1
+heads 365
+tails 351
+()
+flip number: 717
+flip: 0
+heads 366
+tails 351
+()
+flip number: 718
+flip: 0
+heads 367
+tails 351
+()
+flip number: 719
+flip: 1
+heads 367
+tails 352
+()
+flip number: 720
+flip: 0
+heads 368
+tails 352
+()
+flip number: 721
+flip: 0
+heads 369
+tails 352
+()
+flip number: 722
+flip: 0
+heads 370
+tails 352
+()
+flip number: 723
+flip: 1
+heads 370
+tails 353
+()
+flip number: 724
+flip: 0
+heads 371
+tails 353
+()
+flip number: 725
+flip: 1
+heads 371
+tails 354
+()
+flip number: 726
+flip: 0
+heads 372
+tails 354
+()
+flip number: 727
+flip: 0
+heads 373
+tails 354
+()
+flip number: 728
+flip: 1
+heads 373
+tails 355
+()
+flip number: 729
+flip: 1
+heads 373
+tails 356
+()
+flip number: 730
+flip: 0
+heads 374
+tails 356
+()
+flip number: 731
+flip: 1
+heads 374
+tails 357
+()
+flip number: 732
+flip: 1
+heads 374
+tails 358
+()
+flip number: 733
+flip: 1
+heads 374
+tails 359
+()
+flip number: 734
+flip: 1
+heads 374
+tails 360
+()
+flip number: 735
+flip: 1
+heads 374
+tails 361
+()
+flip number: 736
+flip: 0
+heads 375
+tails 361
+()
+flip number: 737
+flip: 1
+heads 375
+tails 362
+()
+flip number: 738
+flip: 1
+heads 375
+tails 363
+()
+flip number: 739
+flip: 0
+heads 376
+tails 363
+()
+flip number: 740
+flip: 1
+heads 376
+tails 364
+()
+flip number: 741
+flip: 0
+heads 377
+tails 364
+()
+flip number: 742
+flip: 0
+heads 378
+tails 364
+()
+flip number: 743
+flip: 1
+heads 378
+tails 365
+()
+flip number: 744
+flip: 1
+heads 378
+tails 366
+()
+flip number: 745
+flip: 1
+heads 378
+tails 367
+()
+flip number: 746
+flip: 1
+heads 378
+tails 368
+()
+flip number: 747
+flip: 1
+heads 378
+tails 369
+()
+flip number: 748
+flip: 0
+heads 379
+tails 369
+()
+flip number: 749
+flip: 1
+heads 379
+tails 370
+()
+flip number: 750
+flip: 0
+heads 380
+tails 370
+()
+flip number: 751
+flip: 1
+heads 380
+tails 371
+()
+flip number: 752
+flip: 1
+heads 380
+tails 372
+()
+flip number: 753
+flip: 0
+heads 381
+tails 372
+()
+flip number: 754
+flip: 0
+heads 382
+tails 372
+()
+flip number: 755
+flip: 1
+heads 382
+tails 373
+()
+flip number: 756
+flip: 1
+heads 382
+tails 374
+()
+flip number: 757
+flip: 0
+heads 383
+tails 374
+()
+flip number: 758
+flip: 1
+heads 383
+tails 375
+()
+flip number: 759
+flip: 1
+heads 383
+tails 376
+()
+flip number: 760
+flip: 0
+heads 384
+tails 376
+()
+flip number: 761
+flip: 0
+heads 385
+tails 376
+()
+flip number: 762
+flip: 0
+heads 386
+tails 376
+()
+flip number: 763
+flip: 1
+heads 386
+tails 377
+()
+flip number: 764
+flip: 1
+heads 386
+tails 378
+()
+flip number: 765
+flip: 0
+heads 387
+tails 378
+()
+flip number: 766
+flip: 0
+heads 388
+tails 378
+()
+flip number: 767
+flip: 0
+heads 389
+tails 378
+()
+flip number: 768
+flip: 1
+heads 389
+tails 379
+()
+flip number: 769
+flip: 1
+heads 389
+tails 380
+()
+flip number: 770
+flip: 0
+heads 390
+tails 380
+()
+flip number: 771
+flip: 0
+heads 391
+tails 380
+()
+flip number: 772
+flip: 0
+heads 392
+tails 380
+()
+flip number: 773
+flip: 1
+heads 392
+tails 381
+()
+flip number: 774
+flip: 0
+heads 393
+tails 381
+()
+flip number: 775
+flip: 0
+heads 394
+tails 381
+()
+flip number: 776
+flip: 0
+heads 395
+tails 381
+()
+flip number: 777
+flip: 1
+heads 395
+tails 382
+()
+flip number: 778
+flip: 0
+heads 396
+tails 382
+()
+flip number: 779
+flip: 0
+heads 397
+tails 382
+()
+flip number: 780
+flip: 1
+heads 397
+tails 383
+()
+flip number: 781
+flip: 1
+heads 397
+tails 384
+()
+flip number: 782
+flip: 1
+heads 397
+tails 385
+()
+flip number: 783
+flip: 1
+heads 397
+tails 386
+()
+flip number: 784
+flip: 1
+heads 397
+tails 387
+()
+flip number: 785
+flip: 1
+heads 397
+tails 388
+()
+flip number: 786
+flip: 1
+heads 397
+tails 389
+()
+flip number: 787
+flip: 0
+heads 398
+tails 389
+()
+flip number: 788
+flip: 0
+heads 399
+tails 389
+()
+flip number: 789
+flip: 0
+heads 400
+tails 389
+()
+flip number: 790
+flip: 0
+heads 401
+tails 389
+()
+flip number: 791
+flip: 0
+heads 402
+tails 389
+()
+flip number: 792
+flip: 1
+heads 402
+tails 390
+()
+flip number: 793
+flip: 1
+heads 402
+tails 391
+()
+flip number: 794
+flip: 0
+heads 403
+tails 391
+()
+flip number: 795
+flip: 1
+heads 403
+tails 392
+()
+flip number: 796
+flip: 1
+heads 403
+tails 393
+()
+flip number: 797
+flip: 0
+heads 404
+tails 393
+()
+flip number: 798
+flip: 0
+heads 405
+tails 393
+()
+flip number: 799
+flip: 0
+heads 406
+tails 393
+()
+flip number: 800
+flip: 0
+heads 407
+tails 393
+()
+flip number: 801
+flip: 0
+heads 408
+tails 393
+()
+flip number: 802
+flip: 1
+heads 408
+tails 394
+()
+flip number: 803
+flip: 1
+heads 408
+tails 395
+()
+flip number: 804
+flip: 0
+heads 409
+tails 395
+()
+flip number: 805
+flip: 0
+heads 410
+tails 395
+()
+flip number: 806
+flip: 0
+heads 411
+tails 395
+()
+flip number: 807
+flip: 0
+heads 412
+tails 395
+()
+flip number: 808
+flip: 1
+heads 412
+tails 396
+()
+flip number: 809
+flip: 1
+heads 412
+tails 397
+()
+flip number: 810
+flip: 1
+heads 412
+tails 398
+()
+flip number: 811
+flip: 1
+heads 412
+tails 399
+()
+flip number: 812
+flip: 0
+heads 413
+tails 399
+()
+flip number: 813
+flip: 1
+heads 413
+tails 400
+()
+flip number: 814
+flip: 0
+heads 414
+tails 400
+()
+flip number: 815
+flip: 0
+heads 415
+tails 400
+()
+flip number: 816
+flip: 0
+heads 416
+tails 400
+()
+flip number: 817
+flip: 1
+heads 416
+tails 401
+()
+flip number: 818
+flip: 0
+heads 417
+tails 401
+()
+flip number: 819
+flip: 0
+heads 418
+tails 401
+()
+flip number: 820
+flip: 0
+heads 419
+tails 401
+()
+flip number: 821
+flip: 1
+heads 419
+tails 402
+()
+flip number: 822
+flip: 1
+heads 419
+tails 403
+()
+flip number: 823
+flip: 1
+heads 419
+tails 404
+()
+flip number: 824
+flip: 1
+heads 419
+tails 405
+()
+flip number: 825
+flip: 1
+heads 419
+tails 406
+()
+flip number: 826
+flip: 0
+heads 420
+tails 406
+()
+flip number: 827
+flip: 0
+heads 421
+tails 406
+()
+flip number: 828
+flip: 0
+heads 422
+tails 406
+()
+flip number: 829
+flip: 0
+heads 423
+tails 406
+()
+flip number: 830
+flip: 1
+heads 423
+tails 407
+()
+flip number: 831
+flip: 0
+heads 424
+tails 407
+()
+flip number: 832
+flip: 1
+heads 424
+tails 408
+()
+flip number: 833
+flip: 1
+heads 424
+tails 409
+()
+flip number: 834
+flip: 0
+heads 425
+tails 409
+()
+flip number: 835
+flip: 1
+heads 425
+tails 410
+()
+flip number: 836
+flip: 1
+heads 425
+tails 411
+()
+flip number: 837
+flip: 1
+heads 425
+tails 412
+()
+flip number: 838
+flip: 0
+heads 426
+tails 412
+()
+flip number: 839
+flip: 1
+heads 426
+tails 413
+()
+flip number: 840
+flip: 1
+heads 426
+tails 414
+()
+flip number: 841
+flip: 0
+heads 427
+tails 414
+()
+flip number: 842
+flip: 0
+heads 428
+tails 414
+()
+flip number: 843
+flip: 0
+heads 429
+tails 414
+()
+flip number: 844
+flip: 0
+heads 430
+tails 414
+()
+flip number: 845
+flip: 1
+heads 430
+tails 415
+()
+flip number: 846
+flip: 0
+heads 431
+tails 415
+()
+flip number: 847
+flip: 1
+heads 431
+tails 416
+()
+flip number: 848
+flip: 1
+heads 431
+tails 417
+()
+flip number: 849
+flip: 0
+heads 432
+tails 417
+()
+flip number: 850
+flip: 0
+heads 433
+tails 417
+()
+flip number: 851
+flip: 0
+heads 434
+tails 417
+()
+flip number: 852
+flip: 1
+heads 434
+tails 418
+()
+flip number: 853
+flip: 1
+heads 434
+tails 419
+()
+flip number: 854
+flip: 1
+heads 434
+tails 420
+()
+flip number: 855
+flip: 0
+heads 435
+tails 420
+()
+flip number: 856
+flip: 0
+heads 436
+tails 420
+()
+flip number: 857
+flip: 0
+heads 437
+tails 420
+()
+flip number: 858
+flip: 0
+heads 438
+tails 420
+()
+flip number: 859
+flip: 0
+heads 439
+tails 420
+()
+flip number: 860
+flip: 0
+heads 440
+tails 420
+()
+flip number: 861
+flip: 0
+heads 441
+tails 420
+()
+flip number: 862
+flip: 0
+heads 442
+tails 420
+()
+flip number: 863
+flip: 0
+heads 443
+tails 420
+()
+flip number: 864
+flip: 0
+heads 444
+tails 420
+()
+flip number: 865
+flip: 0
+heads 445
+tails 420
+()
+flip number: 866
+flip: 1
+heads 445
+tails 421
+()
+flip number: 867
+flip: 0
+heads 446
+tails 421
+()
+flip number: 868
+flip: 1
+heads 446
+tails 422
+()
+flip number: 869
+flip: 1
+heads 446
+tails 423
+()
+flip number: 870
+flip: 0
+heads 447
+tails 423
+()
+flip number: 871
+flip: 0
+heads 448
+tails 423
+()
+flip number: 872
+flip: 0
+heads 449
+tails 423
+()
+flip number: 873
+flip: 1
+heads 449
+tails 424
+()
+flip number: 874
+flip: 0
+heads 450
+tails 424
+()
+flip number: 875
+flip: 1
+heads 450
+tails 425
+()
+flip number: 876
+flip: 0
+heads 451
+tails 425
+()
+flip number: 877
+flip: 0
+heads 452
+tails 425
+()
+flip number: 878
+flip: 1
+heads 452
+tails 426
+()
+flip number: 879
+flip: 0
+heads 453
+tails 426
+()
+flip number: 880
+flip: 1
+heads 453
+tails 427
+()
+flip number: 881
+flip: 0
+heads 454
+tails 427
+()
+flip number: 882
+flip: 0
+heads 455
+tails 427
+()
+flip number: 883
+flip: 0
+heads 456
+tails 427
+()
+flip number: 884
+flip: 0
+heads 457
+tails 427
+()
+flip number: 885
+flip: 0
+heads 458
+tails 427
+()
+flip number: 886
+flip: 1
+heads 458
+tails 428
+()
+flip number: 887
+flip: 0
+heads 459
+tails 428
+()
+flip number: 888
+flip: 0
+heads 460
+tails 428
+()
+flip number: 889
+flip: 1
+heads 460
+tails 429
+()
+flip number: 890
+flip: 0
+heads 461
+tails 429
+()
+flip number: 891
+flip: 0
+heads 462
+tails 429
+()
+flip number: 892
+flip: 1
+heads 462
+tails 430
+()
+flip number: 893
+flip: 1
+heads 462
+tails 431
+()
+flip number: 894
+flip: 0
+heads 463
+tails 431
+()
+flip number: 895
+flip: 1
+heads 463
+tails 432
+()
+flip number: 896
+flip: 0
+heads 464
+tails 432
+()
+flip number: 897
+flip: 0
+heads 465
+tails 432
+()
+flip number: 898
+flip: 0
+heads 466
+tails 432
+()
+flip number: 899
+flip: 1
+heads 466
+tails 433
+()
+flip number: 900
+flip: 0
+heads 467
+tails 433
+()
+flip number: 901
+flip: 0
+heads 468
+tails 433
+()
+flip number: 902
+flip: 0
+heads 469
+tails 433
+()
+flip number: 903
+flip: 0
+heads 470
+tails 433
+()
+flip number: 904
+flip: 0
+heads 471
+tails 433
+()
+flip number: 905
+flip: 0
+heads 472
+tails 433
+()
+flip number: 906
+flip: 1
+heads 472
+tails 434
+()
+flip number: 907
+flip: 1
+heads 472
+tails 435
+()
+flip number: 908
+flip: 1
+heads 472
+tails 436
+()
+flip number: 909
+flip: 1
+heads 472
+tails 437
+()
+flip number: 910
+flip: 1
+heads 472
+tails 438
+()
+flip number: 911
+flip: 1
+heads 472
+tails 439
+()
+flip number: 912
+flip: 1
+heads 472
+tails 440
+()
+flip number: 913
+flip: 0
+heads 473
+tails 440
+()
+flip number: 914
+flip: 1
+heads 473
+tails 441
+()
+flip number: 915
+flip: 0
+heads 474
+tails 441
+()
+flip number: 916
+flip: 0
+heads 475
+tails 441
+()
+flip number: 917
+flip: 0
+heads 476
+tails 441
+()
+flip number: 918
+flip: 1
+heads 476
+tails 442
+()
+flip number: 919
+flip: 0
+heads 477
+tails 442
+()
+flip number: 920
+flip: 1
+heads 477
+tails 443
+()
+flip number: 921
+flip: 0
+heads 478
+tails 443
+()
+flip number: 922
+flip: 0
+heads 479
+tails 443
+()
+flip number: 923
+flip: 1
+heads 479
+tails 444
+()
+flip number: 924
+flip: 1
+heads 479
+tails 445
+()
+flip number: 925
+flip: 0
+heads 480
+tails 445
+()
+flip number: 926
+flip: 0
+heads 481
+tails 445
+()
+flip number: 927
+flip: 0
+heads 482
+tails 445
+()
+flip number: 928
+flip: 1
+heads 482
+tails 446
+()
+flip number: 929
+flip: 0
+heads 483
+tails 446
+()
+flip number: 930
+flip: 0
+heads 484
+tails 446
+()
+flip number: 931
+flip: 0
+heads 485
+tails 446
+()
+flip number: 932
+flip: 1
+heads 485
+tails 447
+()
+flip number: 933
+flip: 1
+heads 485
+tails 448
+()
+flip number: 934
+flip: 0
+heads 486
+tails 448
+()
+flip number: 935
+flip: 1
+heads 486
+tails 449
+()
+flip number: 936
+flip: 0
+heads 487
+tails 449
+()
+flip number: 937
+flip: 1
+heads 487
+tails 450
+()
+flip number: 938
+flip: 0
+heads 488
+tails 450
+()
+flip number: 939
+flip: 1
+heads 488
+tails 451
+()
+flip number: 940
+flip: 0
+heads 489
+tails 451
+()
+flip number: 941
+flip: 0
+heads 490
+tails 451
+()
+flip number: 942
+flip: 1
+heads 490
+tails 452
+()
+flip number: 943
+flip: 1
+heads 490
+tails 453
+()
+flip number: 944
+flip: 0
+heads 491
+tails 453
+()
+flip number: 945
+flip: 0
+heads 492
+tails 453
+()
+flip number: 946
+flip: 1
+heads 492
+tails 454
+()
+flip number: 947
+flip: 1
+heads 492
+tails 455
+()
+flip number: 948
+flip: 0
+heads 493
+tails 455
+()
+flip number: 949
+flip: 1
+heads 493
+tails 456
+()
+flip number: 950
+flip: 0
+heads 494
+tails 456
+()
+flip number: 951
+flip: 1
+heads 494
+tails 457
+()
+flip number: 952
+flip: 1
+heads 494
+tails 458
+()
+flip number: 953
+flip: 0
+heads 495
+tails 458
+()
+flip number: 954
+flip: 0
+heads 496
+tails 458
+()
+flip number: 955
+flip: 0
+heads 497
+tails 458
+()
+flip number: 956
+flip: 1
+heads 497
+tails 459
+()
+flip number: 957
+flip: 0
+heads 498
+tails 459
+()
+flip number: 958
+flip: 1
+heads 498
+tails 460
+()
+flip number: 959
+flip: 1
+heads 498
+tails 461
+()
+flip number: 960
+flip: 1
+heads 498
+tails 462
+()
+flip number: 961
+flip: 1
+heads 498
+tails 463
+()
+flip number: 962
+flip: 1
+heads 498
+tails 464
+()
+flip number: 963
+flip: 0
+heads 499
+tails 464
+()
+flip number: 964
+flip: 0
+heads 500
+tails 464
+()
+flip number: 965
+flip: 0
+heads 501
+tails 464
+()
+flip number: 966
+flip: 1
+heads 501
+tails 465
+()
+flip number: 967
+flip: 0
+heads 502
+tails 465
+()
+flip number: 968
+flip: 1
+heads 502
+tails 466
+()
+flip number: 969
+flip: 1
+heads 502
+tails 467
+()
+flip number: 970
+flip: 1
+heads 502
+tails 468
+()
+flip number: 971
+flip: 0
+heads 503
+tails 468
+()
+flip number: 972
+flip: 1
+heads 503
+tails 469
+()
+flip number: 973
+flip: 0
+heads 504
+tails 469
+()
+flip number: 974
+flip: 0
+heads 505
+tails 469
+()
+flip number: 975
+flip: 1
+heads 505
+tails 470
+()
+flip number: 976
+flip: 1
+heads 505
+tails 471
+()
+flip number: 977
+flip: 0
+heads 506
+tails 471
+()
+flip number: 978
+flip: 1
+heads 506
+tails 472
+()
+flip number: 979
+flip: 1
+heads 506
+tails 473
+()
+flip number: 980
+flip: 0
+heads 507
+tails 473
+()
+flip number: 981
+flip: 1
+heads 507
+tails 474
+()
+flip number: 982
+flip: 1
+heads 507
+tails 475
+()
+flip number: 983
+flip: 0
+heads 508
+tails 475
+()
+flip number: 984
+flip: 1
+heads 508
+tails 476
+()
+flip number: 985
+flip: 1
+heads 508
+tails 477
+()
+flip number: 986
+flip: 0
+heads 509
+tails 477
+()
+flip number: 987
+flip: 1
+heads 509
+tails 478
+()
+flip number: 988
+flip: 1
+heads 509
+tails 479
+()
+flip number: 989
+flip: 0
+heads 510
+tails 479
+()
+flip number: 990
+flip: 0
+heads 511
+tails 479
+()
+flip number: 991
+flip: 1
+heads 511
+tails 480
+()
+flip number: 992
+flip: 0
+heads 512
+tails 480
+()
+flip number: 993
+flip: 0
+heads 513
+tails 480
+()
+flip number: 994
+flip: 0
+heads 514
+tails 480
+()
+flip number: 995
+flip: 0
+heads 515
+tails 480
+()
+flip number: 996
+flip: 1
+heads 515
+tails 481
+()
+flip number: 997
+flip: 1
+heads 515
+tails 482
+()
+flip number: 998
+flip: 1
+heads 515
+tails 483
+()
+flip number: 999
+flip: 0
+heads 516
+tails 483
+()
+flip number: 1000
+flip: 0
+heads 517
+tails 483
+()
+final heads/tails counts:
+heads 517
+tails 483
+heads was winning after 397 flips
+tails was winning after 555 flips
+and there were 48 ties.
