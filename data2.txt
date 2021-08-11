@@ -1,0 +1,507 @@
+enter desired number of coin flips:
+flip number: 1
+flip: 0
+heads 1
+tails 0
+()
+flip number: 2
+flip: 0
+heads 2
+tails 0
+()
+flip number: 3
+flip: 0
+heads 3
+tails 0
+()
+flip number: 4
+flip: 0
+heads 4
+tails 0
+()
+flip number: 5
+flip: 0
+heads 5
+tails 0
+()
+flip number: 6
+flip: 1
+heads 5
+tails 1
+()
+flip number: 7
+flip: 0
+heads 6
+tails 1
+()
+flip number: 8
+flip: 1
+heads 6
+tails 2
+()
+flip number: 9
+flip: 0
+heads 7
+tails 2
+()
+flip number: 10
+flip: 1
+heads 7
+tails 3
+()
+flip number: 11
+flip: 1
+heads 7
+tails 4
+()
+flip number: 12
+flip: 1
+heads 7
+tails 5
+()
+flip number: 13
+flip: 0
+heads 8
+tails 5
+()
+flip number: 14
+flip: 0
+heads 9
+tails 5
+()
+flip number: 15
+flip: 0
+heads 10
+tails 5
+()
+flip number: 16
+flip: 1
+heads 10
+tails 6
+()
+flip number: 17
+flip: 1
+heads 10
+tails 7
+()
+flip number: 18
+flip: 0
+heads 11
+tails 7
+()
+flip number: 19
+flip: 1
+heads 11
+tails 8
+()
+flip number: 20
+flip: 0
+heads 12
+tails 8
+()
+flip number: 21
+flip: 0
+heads 13
+tails 8
+()
+flip number: 22
+flip: 0
+heads 14
+tails 8
+()
+flip number: 23
+flip: 1
+heads 14
+tails 9
+()
+flip number: 24
+flip: 1
+heads 14
+tails 10
+()
+flip number: 25
+flip: 1
+heads 14
+tails 11
+()
+flip number: 26
+flip: 0
+heads 15
+tails 11
+()
+flip number: 27
+flip: 1
+heads 15
+tails 12
+()
+flip number: 28
+flip: 0
+heads 16
+tails 12
+()
+flip number: 29
+flip: 1
+heads 16
+tails 13
+()
+flip number: 30
+flip: 0
+heads 17
+tails 13
+()
+flip number: 31
+flip: 0
+heads 18
+tails 13
+()
+flip number: 32
+flip: 1
+heads 18
+tails 14
+()
+flip number: 33
+flip: 1
+heads 18
+tails 15
+()
+flip number: 34
+flip: 1
+heads 18
+tails 16
+()
+flip number: 35
+flip: 0
+heads 19
+tails 16
+()
+flip number: 36
+flip: 0
+heads 20
+tails 16
+()
+flip number: 37
+flip: 1
+heads 20
+tails 17
+()
+flip number: 38
+flip: 1
+heads 20
+tails 18
+()
+flip number: 39
+flip: 1
+heads 20
+tails 19
+()
+flip number: 40
+flip: 0
+heads 21
+tails 19
+()
+flip number: 41
+flip: 1
+heads 21
+tails 20
+()
+flip number: 42
+flip: 1
+heads 21
+tails 21
+()
+flip number: 43
+flip: 1
+heads 21
+tails 22
+()
+flip number: 44
+flip: 1
+heads 21
+tails 23
+()
+flip number: 45
+flip: 1
+heads 21
+tails 24
+()
+flip number: 46
+flip: 1
+heads 21
+tails 25
+()
+flip number: 47
+flip: 1
+heads 21
+tails 26
+()
+flip number: 48
+flip: 0
+heads 22
+tails 26
+()
+flip number: 49
+flip: 0
+heads 23
+tails 26
+()
+flip number: 50
+flip: 1
+heads 23
+tails 27
+()
+flip number: 51
+flip: 0
+heads 24
+tails 27
+()
+flip number: 52
+flip: 1
+heads 24
+tails 28
+()
+flip number: 53
+flip: 1
+heads 24
+tails 29
+()
+flip number: 54
+flip: 1
+heads 24
+tails 30
+()
+flip number: 55
+flip: 0
+heads 25
+tails 30
+()
+flip number: 56
+flip: 0
+heads 26
+tails 30
+()
+flip number: 57
+flip: 1
+heads 26
+tails 31
+()
+flip number: 58
+flip: 0
+heads 27
+tails 31
+()
+flip number: 59
+flip: 1
+heads 27
+tails 32
+()
+flip number: 60
+flip: 1
+heads 27
+tails 33
+()
+flip number: 61
+flip: 1
+heads 27
+tails 34
+()
+flip number: 62
+flip: 1
+heads 27
+tails 35
+()
+flip number: 63
+flip: 0
+heads 28
+tails 35
+()
+flip number: 64
+flip: 1
+heads 28
+tails 36
+()
+flip number: 65
+flip: 1
+heads 28
+tails 37
+()
+flip number: 66
+flip: 0
+heads 29
+tails 37
+()
+flip number: 67
+flip: 1
+heads 29
+tails 38
+()
+flip number: 68
+flip: 1
+heads 29
+tails 39
+()
+flip number: 69
+flip: 1
+heads 29
+tails 40
+()
+flip number: 70
+flip: 0
+heads 30
+tails 40
+()
+flip number: 71
+flip: 1
+heads 30
+tails 41
+()
+flip number: 72
+flip: 0
+heads 31
+tails 41
+()
+flip number: 73
+flip: 1
+heads 31
+tails 42
+()
+flip number: 74
+flip: 0
+heads 32
+tails 42
+()
+flip number: 75
+flip: 1
+heads 32
+tails 43
+()
+flip number: 76
+flip: 1
+heads 32
+tails 44
+()
+flip number: 77
+flip: 1
+heads 32
+tails 45
+()
+flip number: 78
+flip: 1
+heads 32
+tails 46
+()
+flip number: 79
+flip: 0
+heads 33
+tails 46
+()
+flip number: 80
+flip: 1
+heads 33
+tails 47
+()
+flip number: 81
+flip: 0
+heads 34
+tails 47
+()
+flip number: 82
+flip: 1
+heads 34
+tails 48
+()
+flip number: 83
+flip: 1
+heads 34
+tails 49
+()
+flip number: 84
+flip: 0
+heads 35
+tails 49
+()
+flip number: 85
+flip: 1
+heads 35
+tails 50
+()
+flip number: 86
+flip: 1
+heads 35
+tails 51
+()
+flip number: 87
+flip: 0
+heads 36
+tails 51
+()
+flip number: 88
+flip: 1
+heads 36
+tails 52
+()
+flip number: 89
+flip: 0
+heads 37
+tails 52
+()
+flip number: 90
+flip: 0
+heads 38
+tails 52
+()
+flip number: 91
+flip: 0
+heads 39
+tails 52
+()
+flip number: 92
+flip: 1
+heads 39
+tails 53
+()
+flip number: 93
+flip: 0
+heads 40
+tails 53
+()
+flip number: 94
+flip: 1
+heads 40
+tails 54
+()
+flip number: 95
+flip: 1
+heads 40
+tails 55
+()
+flip number: 96
+flip: 1
+heads 40
+tails 56
+()
+flip number: 97
+flip: 0
+heads 41
+tails 56
+()
+flip number: 98
+flip: 0
+heads 42
+tails 56
+()
+flip number: 99
+flip: 0
+heads 43
+tails 56
+()
+flip number: 100
+flip: 0
+heads 44
+tails 56
+()
+final heads/tails counts:
+heads 44
+tails 56
+heads was winning after 41 flips
+tails was winning after 58 flips
+and there were 1 ties.
